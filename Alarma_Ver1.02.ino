@@ -44,7 +44,7 @@ boolean FueActivada=false;
 #define Sensor_Z2 0
 #define Sensor_Z3 2
 
-//-------------------VARIABLES GLOBALES--------------------------
+//-------------------   VARIABLES GLOBALES    --------------------------
 int contconexion = 0;
 unsigned long previousMillis = 0;
 char ssid[20];      
